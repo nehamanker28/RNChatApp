@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557269259719",
+    "project_id": "visual-matrix-79c12",
+    "storage_bucket": "visual-matrix-79c12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557269259719:android:9ba7dceda7e599307075e2",
+        "android_client_info": {
+          "package_name": "com.askim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557269259719-a5r5dob6ti7l6l3ulfnt0p41qsvco57i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzTLf9_JaASRrmDfeorm0IQ2IbVC9rnVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557269259719-a5r5dob6ti7l6l3ulfnt0p41qsvco57i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
